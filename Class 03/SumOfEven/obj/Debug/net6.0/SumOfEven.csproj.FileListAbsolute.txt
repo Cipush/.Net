@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\Class 03\SumOfEven\bin\Debug\net6.0\SumOfEven.exe
+C:\Users\1\source\repos\Class 03\SumOfEven\bin\Debug\net6.0\SumOfEven.deps.json
+C:\Users\1\source\repos\Class 03\SumOfEven\bin\Debug\net6.0\SumOfEven.runtimeconfig.json
+C:\Users\1\source\repos\Class 03\SumOfEven\bin\Debug\net6.0\SumOfEven.dll
+C:\Users\1\source\repos\Class 03\SumOfEven\bin\Debug\net6.0\SumOfEven.pdb
+C:\Users\1\source\repos\Class 03\SumOfEven\obj\Debug\net6.0\SumOfEven.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Class 03\SumOfEven\obj\Debug\net6.0\SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Class 03\SumOfEven\obj\Debug\net6.0\SumOfEven.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Class 03\SumOfEven\obj\Debug\net6.0\SumOfEven.AssemblyInfo.cs
+C:\Users\1\source\repos\Class 03\SumOfEven\obj\Debug\net6.0\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Class 03\SumOfEven\obj\Debug\net6.0\SumOfEven.dll
+C:\Users\1\source\repos\Class 03\SumOfEven\obj\Debug\net6.0\refint\SumOfEven.dll
+C:\Users\1\source\repos\Class 03\SumOfEven\obj\Debug\net6.0\SumOfEven.pdb
+C:\Users\1\source\repos\Class 03\SumOfEven\obj\Debug\net6.0\SumOfEven.genruntimeconfig.cache
+C:\Users\1\source\repos\Class 03\SumOfEven\obj\Debug\net6.0\ref\SumOfEven.dll
